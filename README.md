@@ -1,5 +1,7 @@
 # 🟩 Excel Data Analysis Project – 10km Race Results
 
+![Dashboard demo](/assets/demo_gif.gif)
+
 ## 📚 Table of Contents
 
 - [🚀 Summary](#-summary)
